@@ -5,7 +5,7 @@
 I am passionate about continuously learning and mastering new technologies. With a strong problem-solving mindset, I enjoy tackling challenges and collaborating with others to transform innovative ideas into impactful solutions. My primary interests include web development, automation, and making meaningful contributions to open-source projects, where I can apply my skills to solve real-world problems and help drive technological advancement.
 </p>
 
-- 🔭 I’m currently working on [TripTrack](https://github.com/PasandiRanga/TripTrack.git), a fleet management solution aimed at optimizing trip planning and vehicle tracking.
+- 🔭 I’m currently working on [TripTrack](https://github.com/PasandiRanga/TripTrack.git), a bus management system aimed at optimizing trip planning and tickets bookingd.
 
 - 🌱 I’m currently learning **Web Development, Automation, Linux Kernel Development, DevOps and Cloud Computing**.
 
@@ -68,9 +68,8 @@ I am passionate about continuously learning and mastering new technologies. With
 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rash499&show_icons=true&locale=en&layout=compact" alt="rash499" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rash499&show_icons=true&locale=en" alt="rash499" /></p>
-<p><a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=Rash499&theme=dark" alt="GitHub Streak" /></a></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rash499&show_icons=true&locale=en&layout=compact&theme=dark" alt="rash499" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rash499&show_icons=true&locale=en&theme=dark" alt="rash499" /></p>
 
 <h3 align="left">🎯 OBJECTIVES:</h3>
 <ul>
