@@ -60,8 +60,10 @@ I am passionate about continuously learning and mastering new technologies. With
 
   <!-- Arch Linux Logo -->
   <a href="https://archlinux.org/" target="_blank" rel="noreferrer">
-    <img src="https://archlinux.org/static/logos/archlinux-logo-512x512.png" alt="Arch Linux" width="40" height="40"/>
+      <img src="https://archlinux.org/static/logos/archlinux-logo-dark-90dpi.ebdee92a15b3.png" alt="Arch Linux" width="40" height="40"/>
   </a>
+
+
 
 
 </p>
