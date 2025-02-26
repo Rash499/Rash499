@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on [TripTrack](https://github.com/PasandiRanga/TripTrack.git), a fleet management solution aimed at optimizing trip planning and vehicle tracking.
 
-- 🌱 I’m currently learning **Web Development, Automation, Linux Kernel Development, and Cloud Computing**.
+- 🌱 I’m currently learning **Web Development, Automation, Linux Kernel Development, DevOps and Cloud Computing**.
 
-- 🛠️ I’m exploring **Refine Framework** and integrating it into my projects to enhance my front-end development skills.
+- 🛠️ I’m exploring **Refine Framework and Laravel** while integrating it into my projects to enhance my front-end development skills.
 
-- 💡 I love **problem-solving** and **contributing to open-source projects**.
+- 💡 I love problem-solving, building software and programs from scratch, and contributing to open-source projects.
 
 - 📫 How to reach me **rashmikadilmin499@gmail.com**
 
@@ -48,6 +48,16 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
   <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a> 
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
+  <a href="https://nixos.org/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/NixOS_logo.svg" alt="nixos" width="40" height="40"/>
+</a>
+<a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Ubuntu_logo.svg" alt="ubuntu" width="40" height="40"/>
+</a>
+<a href="https://archlinux.org/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Archlinux-icon-crystal-64.svg" alt="archlinux" width="40" height="40"/>
+</a>
+
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rash499&show_icons=true&locale=en&layout=compact" alt="rash499" /></p>
