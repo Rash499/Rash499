@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Rashmika Dilmin</h1>
-<h3 align="center">Undergraduate at University of Colombo School of Computing</h3>
+<h1 align="justify">Hi 👋, I'm Rashmika Dilmin</h1>
+<h3 align="justify">Undergraduate at University of Colombo School of Computing</h3>
 
-<p align="center">
-  Passionate about learning new technologies, solving problems, and collaborating with others to bring innovative ideas to life. My interests lie in web development, automation, and contributing to open-source projects.
+<p align="justify">
+I am passionate about continuously learning and mastering new technologies. With a strong problem-solving mindset, I enjoy tackling challenges and collaborating with others to transform innovative ideas into impactful solutions. My primary interests include web development, automation, and making meaningful contributions to open-source projects, where I can apply my skills to solve real-world problems and help drive technological advancement.
 </p>
 
 - 🔭 I’m currently working on [TripTrack](https://github.com/PasandiRanga/TripTrack.git), a fleet management solution aimed at optimizing trip planning and vehicle tracking.
@@ -60,14 +60,15 @@
 
   <!-- Arch Linux Logo -->
   <a href="https://archlinux.org/" target="_blank" rel="noreferrer">
-    <img src="https://archlinux.org/static/logos/archlinux-logo-dark-90dpi.ebdee92a15b3.png" alt="Arch Linux" width="40" height="40"/>
+    <img src="https://archlinux.org/static/logos/archlinux-logo-512x512.png" alt="Arch Linux" width="40" height="40"/>
   </a>
+
 
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rash499&show_icons=true&locale=en&layout=compact" alt="rash499" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rash499&show_icons=true&locale=en" alt="rash499" /></p>
-https://github-readme-streak-stats.herokuapp.com/?user=Rash499
+<p><a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=Rash499&theme=dark" alt="GitHub Streak" /></a></p>
 
 <h3 align="left">🎯 OBJECTIVES:</h3>
 <ul>
