@@ -48,24 +48,31 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
   <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a> 
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
+ <!-- NixOS Logo -->
   <a href="https://nixos.org/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/NixOS_logo.svg" alt="nixos" width="40" height="40"/>
-</a>
-<a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Ubuntu_logo.svg" alt="ubuntu" width="40" height="40"/>
-</a>
-<a href="https://archlinux.org/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Archlinux-icon-crystal-64.svg" alt="archlinux" width="40" height="40"/>
-</a>
+    <img src="https://nixos.org/logo/nixos-logo-only-hires.png" alt="NixOS" width="40" height="40"/>
+  </a>
+
+  <!-- Ubuntu Logo -->
+  <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
+    <img src="https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png" alt="Ubuntu" width="40" height="40"/>
+  </a>
+
+  <!-- Arch Linux Logo -->
+  <a href="https://archlinux.org/" target="_blank" rel="noreferrer">
+    <img src="https://archlinux.org/static/logos/archlinux-logo-dark-90dpi.ebdee92a15b3.png" alt="Arch Linux" width="40" height="40"/>
+  </a>
 
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rash499&show_icons=true&locale=en&layout=compact" alt="rash499" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rash499&show_icons=true&locale=en" alt="rash499" /></p>
 
-<h3 align="left">🎯 Future Goals:</h3>
+<h3 align="left">🎯 OBJECTIVES:</h3>
 <ul>
   <li>Contribute more actively to open-source projects.</li>
-  <li>Enhance my skills in cloud computing and cybersecurity.</li>
+  <li>Enhance my skills in cloud computing, networking, and DevOps.</li>
+  <li>Deepen my knowledge of Linux system administration.</li>
   <li>Develop innovative solutions that solve real-world problems.</li>
 </ul>
+
