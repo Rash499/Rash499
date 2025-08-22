@@ -1,15 +1,19 @@
 <h1 align="justify">Hi 👋, I'm Rashmika Dilmin</h1>
-<h3 align="justify">Undergraduate at University of Colombo School of Computing</h3>
+<h3 align="justify">3rd year Computer Science undergraduate at University of Colombo School of Computing</h3>
 
 <p align="justify">
 I am passionate about continuously learning and mastering new technologies. With a strong problem-solving mindset, I enjoy tackling challenges and collaborating with others to transform innovative ideas into impactful solutions. My primary interests include web development, automation, and making meaningful contributions to open-source projects, where I can apply my skills to solve real-world problems and help drive technological advancement.
 </p>
+<br>
+<p>
+I also have hands-on experience with Linux systems, including shell scripting, system administration, package management, and kernel-level exploration. I enjoy experimenting with low-level system programming, customizing the Linux environment, and optimizing workflows through automation.
+</p>
 
-- 🔭 I’m currently working on [TripTrack](https://github.com/PasandiRanga/TripTrack.git), a bus management system aimed at optimizing trip planning and tickets bookingd.
+- 🔭 I’m currently working on [Autoconnect](https://github.com/Dark-Zeus/auto-connect), a embedded vehicle service management system with vehicle buying/selling and see the vehicle history reports.
 
 - 🌱 I’m currently learning **Web Development, Automation, Linux Kernel Development, DevOps and Cloud Computing**.
 
-- 🛠️ I’m exploring **Refine Framework and Laravel** while integrating it into my projects to enhance my front-end development skills.
+- 🛠️ I’m exploring **React and Laravel** while integrating it into my projects to enhance my front-end development skills.
 
 - 💡 I love problem-solving, building software and programs from scratch, and contributing to open-source projects.
 
@@ -48,10 +52,6 @@ I am passionate about continuously learning and mastering new technologies. With
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
   <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a> 
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
- <!-- NixOS Logo -->
-  <a href="https://nixos.org/" target="_blank" rel="noreferrer">
-    <img src="https://nixos.org/logo/nixos-logo-only-hires.png" alt="NixOS" width="40" height="40"/>
-  </a>
 
   <!-- Ubuntu Logo -->
   <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
