@@ -13,7 +13,7 @@ I also have hands-on experience with Linux systems, including shell scripting, s
 
 - 🌱 I’m currently learning **Web Development, Automation, Linux Kernel Development, DevOps and Cloud Computing**.
 
-- 🛠️ I’m exploring **React and Laravel** while integrating it into my projects to enhance my front-end development skills.
+- 🛠️ I’m exploring **React and Laravel** while integrating it into my projects to enhance my web development skills.
 
 - 💡 I love problem-solving, building software and programs from scratch, and contributing to open-source projects.
 
