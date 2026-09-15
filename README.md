@@ -231,13 +231,9 @@ I have hands-on exposure to:
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rash499&show_icons=true&theme=dark&hide_border=true" alt="Rashmika's GitHub Stats" />
-</p>
+<p align="center"> <img src="./profile/stats.svg" alt="Rashmika's GitHub Statistics" /> </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rash499&layout=compact&theme=dark&hide_border=true" alt="Rashmika's Top Languages" />
-</p>
+<p align="center"> <img src="./profile/top-langs.svg" alt="Rashmika's Top Languages" /> </p>
 
 ---
 
