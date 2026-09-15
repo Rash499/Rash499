@@ -231,10 +231,7 @@ I have hands-on exposure to:
 
 ## 📊 GitHub Statistics
 
-<p align="center"> <img src="./profile/stats.svg" alt="Rashmika's GitHub Statistics" /> </p>
-
-<p align="center"> <img src="./profile/top-langs.svg" alt="Rashmika's Top Languages" /> </p>
-
+<p align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="./profile/signal-field-wide-dark.svg" /> <img src="./profile/signal-field-wide-light.svg" alt="GitHub activity summary" width="640" /> </picture> </p>
 ---
 
 ## 🎯 Current Objectives
